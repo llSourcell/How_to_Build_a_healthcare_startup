@@ -30,7 +30,7 @@ flutter run
 ```
 Alternatively you can open the app as a new flutter project in Android Studio after installing the Flutter plugin. See the video for instructions on how to do that. 
 
-## TODO
+## TODO - please make a PR if you fix any of these
 
 - Firebase is integrated, but it still needs to be properly wired up to the login and signup pages.
 - Stripe and RazorPay are integrated, but each still need to be wired up to the Credit/Debit Card view i created.
