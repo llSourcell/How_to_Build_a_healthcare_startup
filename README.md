@@ -17,6 +17,8 @@ All of these can be downloaded in a single command, see below.
 
 ## Instructions
 
+First install [Flutter](https://flutter.dev/docs/get-started/install). 
+
 After download, from command line run this to install the dependencies
 ```
 flutter packages get
@@ -43,30 +45,3 @@ Alternatively you can open the app as a new flutter project in Android Studio af
 ## Credits
 
 Thanks to [shaqian](https://github.com/shaqian/flutter_realtime_detection) for his starter code. 
-
-# flutter_realtime_detection
-
-Real-time object detection in Flutter using [camera](https://pub.dartlang.org/packages/camera) and [tflite](https://pub.dartlang.org/packages/tflite) plugin. 
-
-## Install 
-
-
-## Run
-
-
-## Models
-
-- Image Classification
-  - MobileNet
-
-- Object Detection
-  - SSD MobileNet
-  - Yolov2 Tiny
-
-- Pose Estimation 
-  - PoseNet
-
-## Previews
-
-![](preview.jpg) 
-
