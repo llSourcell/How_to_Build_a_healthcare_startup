@@ -1,8 +1,6 @@
-
+import 'package:flutter/material.dart';
 
 class SecondRoute extends StatelessWidget {
-  @override
-
   // firebase login/signup code
 //  _validateAndSubmit() async {
 //    setState(() {
@@ -34,6 +32,7 @@ class SecondRoute extends StatelessWidget {
 //      }
 //    }
 //  }
+
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Color(0xff7F84BE),
@@ -111,4 +110,7 @@ class SecondRoute extends StatelessWidget {
     );
 
   }
+}
+
+class StatelessWidget {
 }
