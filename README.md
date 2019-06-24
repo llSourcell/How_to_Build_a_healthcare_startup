@@ -44,4 +44,4 @@ Alternatively you can open the app as a new flutter project in Android Studio af
 
 ## Credits
 
-Thanks to [shaqian](https://github.com/shaqian/flutter_realtime_detection) for his starter code. 
+Thanks to [shaqian](https://github.com/shaqian/flutter_realtime_detection) for her starter code. 
